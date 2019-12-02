@@ -1,0 +1,5 @@
+# fichier pour les robots du site http://www.adressedevotresite.com/
+User-Agent: * 
+Disallow: /assets/ 
+Allow: /*.css?* 
+Sitemap: https://zied711.github.io/sitemap.xml 
